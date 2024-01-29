@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  appserver:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-29T15:52:07.027979768+05:30"
+    description: A Helm chart for Kubernetes
+    digest: ade4ff18ebd049c3e1275f09675b6e15b3e58e6652d6daf244acf70211de2ed4
+    name: appserver
+    type: application
+    urls:
+    - appserver-1.1.0.tgz
+    version: 1.1.0
+  dbserver:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-29T15:52:07.028237453+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f37c9cb53bd121be2f30f534a0535cdf2852fd61a7ae4c4fd2baca352ac0c1a1
+    name: dbserver
+    type: application
+    urls:
+    - dbserver-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-29T15:52:07.027524644+05:30"
